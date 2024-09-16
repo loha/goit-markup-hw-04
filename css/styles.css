@@ -459,13 +459,9 @@ header address .contact-info__first:focus {
   padding: 100px 0;
 }
 
-.footer .main-container {
+.footer .container {
   display: flex;
   align-items: baseline;
-}
-
-.footer .container {
-  margin-right: 120px;
 }
 
 .social-media .text {
