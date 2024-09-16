@@ -521,6 +521,10 @@ header address .contact-info__first:focus {
   background-color: #31d0aa;
 }
 
+.social-media .social-networks-list-item-link:first-child {
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 .social-media .social-networks-list-item-link__svg {
   fill: #f4f4fd;
 }
