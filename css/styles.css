@@ -461,6 +461,10 @@ header address .contact-info__first:focus {
   color: #f4f4fd;
 }
 
+.fourth-content .fourth-content__list-item:hover {
+  transform: translateY(0%);
+}
+
 .fourth-content__list-item:hover .text {
   transform: translateY(0%);
 }
